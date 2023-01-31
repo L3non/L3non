@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffc400&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lenon;I'm+17+years+old;I+from+SP,+Brazil;I'm+studying+web+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=L3non&show_icons=true&count_private=true&hide_border=true&title_color=ffc400&icon_color=ffc400&text_color=fffc00&bg_color=0d1117" alt="Lenon github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3non&layout=compact&hide_border=true&title_color=ffc400&text_color=fffc00&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=L3non&show_icons=true&count_private=true&hide_border=true&title_color=ffc400&icon_color=ffc400&text_color=FFF701&bg_color=0d1117" alt="Lenon github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3non&layout=compact&hide_border=true&title_color=ffc400&text_color=FFF701&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=L3non&bg_color=0d1117&color=ffc400&line=fffc00&point=ffc400&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">  
-<a href="www.instagram.com/eu_bruno_fernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/eu_bruno_fernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
 
 ### Main skills:
