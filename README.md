@@ -12,7 +12,7 @@
 <a href="http://www.github.com/L3non"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=L3non&bg_color=0d1117&color=fff&line=F5DC00&point=fff&area_color=F5DC00&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=L3non&theme=gruvbox&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=L3non&theme=gruvbox&row=1&no-bg=true&column=6&margin-w=15&margin-h=15&no-frame=true" />
 </p>
 
 <div align="center">  
