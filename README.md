@@ -6,7 +6,7 @@
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=L3non&show_icons=true&count_private=true&hide_border=true&title_color=F5DC00&icon_color=F5DC00&text_color=fff&bg_color=0d1117" alt="Lenon github stats" /> 
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3non&layout=compact&hide_border=true&title_color=F5DC00&text_color=fff&bg_color=0d1117" />
   
-  <a href="http://www.github.com/L3non"><img src="https://github-readme-streak-stats.herokuapp.com/?user=L3non&stroke=fff&background=0d1117&ring=F5DC00&fire=F5DC00&currStreakNum=fff&currStreakLabel=F5DC00&sideNums=fff&sideLabels=fff&dates=fff&hide_border=true" /></a>
+  <a href="http://www.github.com/L3non"><img src="https://github-readme-streak-stats.herokuapp.com/?user=L3non&stroke=fff&background=0d1117&ring=F5DC00&fire=F5DC00&currStreakNum=fff&currStreakLabel=F5DC00&sideNums=fff&sideLabels=F5DC00&dates=fff&hide_border=true" /></a>
 </div>
 
 <a href="http://www.github.com/L3non"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=L3non&bg_color=0d1117&color=fff&line=F5DC00&point=fff&area_color=F5DC00&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
