@@ -15,9 +15,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=L3non&theme=gruvbox&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
+<!--<div align="center">  
 <a href="https://www.instagram.com/eu_bruno_fernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
+</div>-->
 
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
