@@ -7,6 +7,14 @@
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3non&layout=compact&hide_border=true&title_color=F5DC00&text_color=fff&bg_color=0d1117" />
 </div>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=L3non&theme=gruvbox&row=1&no-bg=true&column=4&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">  
+<a href="https://www.instagram.com/lenon.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>
+
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -30,14 +38,6 @@
 
 <div align="center">  
   <a href="http://www.github.com/L3non"><img src="https://github-readme-streak-stats.herokuapp.com/?user=L3non&stroke=fff&background=0d1117&ring=F5DC00&fire=F5DC00&currStreakNum=fff&currStreakLabel=F5DC00&sideNums=fff&sideLabels=F5DC00&dates=fff&hide_border=true" /></a>
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=L3non&theme=gruvbox&row=1&no-bg=true&column=4&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-<a href="https://www.instagram.com/lenon.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
 
   <div align="center">
