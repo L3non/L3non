@@ -5,17 +5,6 @@
 <div align="center">  
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=L3non&show_icons=true&count_private=true&hide_border=true&title_color=F5DC00&icon_color=F5DC00&text_color=fff&bg_color=0d1117" alt="Lenon github stats" /> 
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3non&layout=compact&hide_border=true&title_color=F5DC00&text_color=fff&bg_color=0d1117" />
-  
-  <a href="http://www.github.com/L3non"><img src="https://github-readme-streak-stats.herokuapp.com/?user=L3non&stroke=fff&background=0d1117&ring=F5DC00&fire=F5DC00&currStreakNum=fff&currStreakLabel=F5DC00&sideNums=fff&sideLabels=F5DC00&dates=fff&hide_border=true" /></a>
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=L3non&theme=gruvbox&row=1&no-bg=true&column=4&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-<a href="https://www.instagram.com/lenon.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
 
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -37,6 +26,17 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 -->
+  
+  <a href="http://www.github.com/L3non"><img src="https://github-readme-streak-stats.herokuapp.com/?user=L3non&stroke=fff&background=0d1117&ring=F5DC00&fire=F5DC00&currStreakNum=fff&currStreakLabel=F5DC00&sideNums=fff&sideLabels=F5DC00&dates=fff&hide_border=true" /></a>
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=L3non&theme=gruvbox&row=1&no-bg=true&column=4&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">  
+<a href="https://www.instagram.com/lenon.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
