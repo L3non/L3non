@@ -7,10 +7,6 @@
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3non&layout=compact&hide_border=true&title_color=F5DC00&text_color=fff&bg_color=0d1117" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=L3non&theme=gruvbox&row=1&no-bg=true&column=4&margin-w=15&margin-h=15" />
-</p>
-
 <div align="center">  
 <a href="https://www.instagram.com/lenon.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
