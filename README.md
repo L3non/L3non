@@ -5,7 +5,7 @@
 <div align="center">  
   <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api?username=L3non&show_icons=true&count_private=true&title_color=fff&icon_color=F5DC00&text_color=bbb&bg_color=0d1117&hide_border=true" alt="Lenon github stats" /> 
   <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3non&layout=compact&title_color=fff&text_color=fff&bg_color=0d1117&hide_border=true" />
-  <a href="http://www.github.com/L3non"><img src="https://github-readme-streak-stats.herokuapp.com/?user=L3non&stroke=F5DC00&background=0d1117&ring=ccc&fire=F5DC00&currStreakNum=fff&currStreakLabel=F5DC00&sideNums=fff&sideLabels=F5DC00&dates=fff&hide_border=true" /></a>
+  <a href="http://www.github.com/L3non"><img src="https://github-readme-streak-stats.herokuapp.com/?user=L3non&stroke=fff&background=0d1117&ring=ccc&fire=F5DC00&currStreakNum=fff&currStreakLabel=F5DC00&sideNums=fff&sideLabels=F5DC00&dates=fff&hide_border=true" /></a>
 </div>
 
 
