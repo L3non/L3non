@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFDD00&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5DC00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lenon;I'm+17+years+old;I+from+SP,+Brazil;I'm+studying+web+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5DC00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bruno+Fernandes;I'm+17+years+old;I+from+SP,+Brazil;I'm+studying+web+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api?username=L3non&show_icons=true&count_private=true&title_color=F5DC00&icon_color=F5DC00&text_color=fff&bg_color=0d1117&hide_border=true" alt="Lenon github stats" /> 
-  <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3non&layout=compact&title_color=F5DC00&text_color=fff&bg_color=0d1117&hide_border=true" />
+  <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api?username=L3non&show_icons=true&count_private=true&title_color=fff&icon_color=F5DC00&text_color=bbb&bg_color=0d1117&hide_border=true" alt="Lenon github stats" /> 
+  <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3non&layout=compact&title_color=fff&text_color=fff&bg_color=0d1117&hide_border=true" />
   <a href="http://www.github.com/L3non"><img src="https://github-readme-streak-stats.herokuapp.com/?user=L3non&stroke=fff&background=0d1117&ring=F5DC00&fire=F5DC00&currStreakNum=fff&currStreakLabel=F5DC00&sideNums=fff&sideLabels=F5DC00&dates=fff&hide_border=true" /></a>
 </div>
 
@@ -51,4 +51,4 @@
 
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFDD00&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=footer"/>
