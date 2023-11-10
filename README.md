@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5DC00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bruno+Fernandes;I'm+17+years+old;I+from+SP,+Brazil;I'm+studying+web+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api?username=L3non&show_icons=true&count_private=true&title_color=fff&icon_color=F5DC00&text_color=A8A9AC&bg_color=0d1117&hide_border=true" alt="Lenon github stats" /> 
-  <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3non&layout=compact&title_color=fff&text_color=A8A9AC&bg_color=0d1117&hide_border=true" />
-  <a href="http://www.github.com/L3non"><img src="https://github-readme-streak-stats.herokuapp.com/?user=L3non&stroke=fff&background=0d1117&ring=fff&fire=F5DC00&currStreakNum=fff&currStreakLabel=F5DC00&sideNums=fff&sideLabels=F5DC00&dates=A8A9AC&hide_border=true" /></a>
+  <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api?username=L3non&show_icons=true&count_private=true&title_color=fff&icon_color=F5DC00&text_color=CCC&bg_color=0d1117&hide_border=true" alt="Lenon github stats" /> 
+  <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3non&layout=compact&title_color=fff&text_color=CCC&bg_color=0d1117&hide_border=true" />
+  <a href="http://www.github.com/L3non"><img src="https://github-readme-streak-stats.herokuapp.com/?user=L3non&stroke=fff&background=0d1117&ring=fff&fire=F5DC00&currStreakNum=fff&currStreakLabel=F5DC00&sideNums=fff&sideLabels=F5DC00&dates=CCC&hide_border=true" /></a>
 </div>
 
 
@@ -39,7 +39,7 @@
   
 ### Studying in this moment:
 <div style="display: inline_block">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python">
 </div>
 
 
