@@ -36,7 +36,6 @@
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logocolor=white" alt="github">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logocolor=white" alt="Excel">
 </div>
   
 ### Studying in this moment:
