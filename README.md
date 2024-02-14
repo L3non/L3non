@@ -5,9 +5,10 @@
 <div align="center">  
   <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api?username=L3non&show_icons=true&count_private=true&title_color=fff&icon_color=F5DC00&text_color=CCC&bg_color=0d1117&hide_border=true" alt="Lenon github stats" /> 
   <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3non&layout=compact&title_color=fff&text_color=CCC&bg_color=0d1117&hide_border=true" />
+  <!--
   <a href="http://www.github.com/L3non"><img src="https://github-readme-streak-stats.herokuapp.com/?user=L3non&stroke=fff&background=0d1117&ring=fff&fire=F5DC00&currStreakNum=fff&currStreakLabel=F5DC00&sideNums=fff&sideLabels=F5DC00&dates=CCC&hide_border=true" /></a>
 </div>
-
+  -->
 
 
 <div align="center">  
@@ -40,7 +41,7 @@
   
 ### Studying in this moment:
 <div style="display: inline_block">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
 </div>
 
 
