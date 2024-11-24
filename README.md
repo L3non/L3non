@@ -1,6 +1,20 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
+<!-- Header Animated Text -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5DC00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Bruno+Fernandes;Tenho+18+anos;Sou+de+São+Paulo;Desenvolvedor+web+apaixonado+pelo+que+faço!;Bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5DC00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bruno+Fernandes;I'm+17+years+old;I+from+SP,+Brazil;I'm+studying+web+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<!-- Social Meida Links -->
+<div align="center">  
+<a href="https://www.instagram.com/lenon.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"</a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+</div>
+
+<!-- About Me -->
+<h2>👨🏻‍💻 Sobre Mim</h2>
+
+
+
+
 
 <div align="center">  
   <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api?username=L3non&show_icons=true&count_private=true&title_color=fff&icon_color=F5DC00&text_color=CCC&bg_color=0d1117&hide_border=true" alt="Lenon github stats" /> 
@@ -11,9 +25,7 @@
   -->
 
 
-<div align="center">  
-<a href="https://www.instagram.com/lenon.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
+
 
 
 <div align="left">
@@ -52,7 +64,3 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{L3non}/count.svg" /></p> 
 <br></div> -->
-
-  
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=footer"/>
