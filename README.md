@@ -12,55 +12,34 @@
 <!-- About Me -->
 <h2>👨🏻‍💻 Sobre Mim</h2>
 
+- 💻 Eu tive meu primeiro contato com programação aos 12 anos, quando descobri a profissão de desenvolvedor por acaso assistindo a vídeos no YouTube. A ideia de trabalhar com tecnologia, algo tão presente e escalável, me chamou a atenção. Por curiosidade e como forma de passar o tempo, comecei a explorar Python. Desde as primeiras linhas de código, fiquei encantado com as possibilidades e com a ideia de criar soluções que poderiam impactar tantas pessoas. Foi aí que percebi: era isso que eu queria fazer.
+- 💛 Conforme fui adquirindo experiência na área, percebi que minha verdadeira paixão é o desenvolvimento web. Criar soluções funcionais e interativas, dar vida a ideias e construir experiências digitais que impactam as pessoas é algo que me motiva profundamente.
+- 🚀 Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web. Utilizo como stack HTML, CSS e Javascript para desenvolver nessa frente.
+- 📚 Tenho uma vontade constante de aprender e evoluir, movido por uma paixão por me aprofundar nos estudos e buscar sempre mais. Nunca me contento com o padrão ou a média; estou sempre explorando novos conhecimentos e experiências que me desafiem. Além disso, tenho um forte gosto pela liderança, pois acredito que inspirar e guiar pessoas é tão importante quanto o próprio aprendizado. Para mim, destacar-se é não apenas crescer individualmente, mas também elevar aqueles ao meu redor.
 
-
-
-
-<div align="center">  
-  <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api?username=L3non&show_icons=true&count_private=true&title_color=fff&icon_color=F5DC00&text_color=CCC&bg_color=0d1117&hide_border=true" alt="Lenon github stats" /> 
-  <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3non&layout=compact&title_color=fff&text_color=CCC&bg_color=0d1117&hide_border=true" />
-  <!--
-  <a href="http://www.github.com/L3non"><img src="https://github-readme-streak-stats.herokuapp.com/?user=L3non&stroke=fff&background=0d1117&ring=fff&fire=F5DC00&currStreakNum=fff&currStreakLabel=F5DC00&sideNums=fff&sideLabels=F5DC00&dates=CCC&hide_border=true" /></a>
-</div>
-  -->
-
-
-
-
-
-<div align="left">
-  
-  ### Main skills:
-  <div style="display: inline_block">
+<!-- Tech Stack -->
+<h2>🛠️ Tech Stack</h2>
+<h3>💻 Front-end:</h3>
+<div style="display: inline_block">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
-  </div>
-  
-  ### Tools:
-  <div style="display: inline_block">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logocolor=white" alt="github">
-  </div>
-  
-  ### Other Knowledge:
-  <div style="display: inline_block">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logocolor=white" alt="github">
-  </div>
-    
-  ### Studying in this moment:
-  <div style="display: inline_block">
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  </div>
-  
 </div>
 
+<h3>⚙️ Back-end:</h3>
+<div style="display: inline_block">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</div>
 
-<!--  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{L3non}/count.svg" /></p> 
-<br></div> -->
+<h3>📒 Outros conhecimentos:</h3>
+<div style="display: inline_block">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logocolor=white" alt="github">
+</div>
+
+<!-- Stats -->
+<h2>🚀 Um Pouco Mais Sobre Meu Perfil</h2>
+<div align="center">  
+  <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api?username=L3non&show_icons=true&count_private=true&title_color=fff&icon_color=F5DC00&text_color=CCC&bg_color=0d1117&hide_border=true" alt="Lenon github stats" /> 
+  <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3non&layout=compact&title_color=fff&text_color=CCC&bg_color=0d1117&hide_border=true" />
+</div>
